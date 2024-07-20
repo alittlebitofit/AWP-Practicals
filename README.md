@@ -14,8 +14,7 @@
       - iv. **Use of foreach loop with arrays.**
       - v. **Reverse a number and find sum of digits of a number.**
 
-
-
+#
 
 2. **Working with Object Oriented C# and ASP.NET**
 
@@ -24,3 +23,10 @@
      - ii. **Money Conversion**
      - iii. **Quadratic Equation**
      - iv. **Temperature Conversion**
+  
+
+   b. **Create simple application to demonstrate use of following concepts:** (**File**: `practical2b.cs`)
+      - i. Function Overloading
+      - ii. Inheritance (all types)
+      - iii. Constructor overloading
+      - iv. Interfaces
