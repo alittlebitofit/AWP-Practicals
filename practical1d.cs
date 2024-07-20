@@ -1,6 +1,6 @@
 // 1. Working with basic C# and ASP .NET 
 
-// Create an application to demonstrate
+// d. Create an application to demonstrate
 // following operations
 // i. Generate Fibonacci series.
 // ii. Test for prime numbers.
