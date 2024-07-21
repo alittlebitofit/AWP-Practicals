@@ -30,3 +30,8 @@
       - ii. Inheritance (all types)
       - iii. Constructor overloading
       - iv. Interfaces
+
+
+   c. **Create simple application to demonstrate use of following concepts:** (**File**: `practical2b.cs`)
+      - i. Using Delegates and events
+      - ii. Exception handling
